@@ -1,5 +1,14 @@
 This repository provides code for gap-filling carbon flux data measured with eddy covariance using Marginal Distribution Sampling (MDS) and Extreme Gradient Boosting (XGB), respectively.
 
+Yujie Liu, Benjamin Lucas, Darby D. Bergl, Andrew D. Richardson,
+Robust filling of extra-long gaps in eddy covariance CO2 flux measurements from a temperate deciduous forest using eXtreme Gradient Boosting,
+Agricultural and Forest Meteorology,
+Volume 364,
+2025,
+110438,
+ISSN 0168-1923,
+https://doi.org/10.1016/j.agrformet.2025.110438.
+
 ![image](https://github.com/YujieLiu666/gapfilling_XGB_vs_MDS/assets/125097061/7d3ecd60-3aa3-453f-af6a-8dd31c450855)
 
 # Environment 
